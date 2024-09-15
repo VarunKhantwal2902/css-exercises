@@ -1,0 +1,21 @@
+*{
+    background-color: #FABC3F;
+    color: #E85C0D;
+    font-family: Tahoma;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: auto;
+    text-align: center;
+}
+
+h2, h3{
+    color: #821131;
+}
+
+p, li{
+    color: #C7253E;
+}
